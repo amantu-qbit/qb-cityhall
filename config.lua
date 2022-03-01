@@ -1,5 +1,7 @@
 Config = Config or {}
 
+Config.UseTarget = True
+
 Config.CompanyPrice = 25000
 
 Config.Cityhall = {
